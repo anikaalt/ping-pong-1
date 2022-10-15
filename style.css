@@ -1,0 +1,10 @@
+.heading
+{
+width: 100%;
+}
+#instructions
+{
+    float: right;
+    margin-top: 0%;
+    padding: 10px;
+}
